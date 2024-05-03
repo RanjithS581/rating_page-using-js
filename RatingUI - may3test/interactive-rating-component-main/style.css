@@ -1,0 +1,80 @@
+.parent{
+    width: 300px;
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+    gap: 10px;
+    padding: 20px;
+    background-color: rgb(77, 72, 72);
+    color: white;
+    margin-top: 15%;
+    margin-bottom: 10px;
+}
+.star{
+    /* margin-left: -250px; */
+    margin-top: 30%;
+    width: 20px;
+}
+.stars{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(98, 94, 94);
+    text-align: center;
+    border-radius: 25px;
+}
+.rating{
+    margin: auto;
+    display: flex;
+    gap: 20px;
+}
+.number{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color:  grey;
+}
+.number:hover{
+    background-color: orange;
+}
+.submit{
+    width: 200px;
+    margin-left:0px;
+    border-radius: 10px;
+    margin-top: 10px;
+    color: orange;
+    height: 30px;
+    background-color: white;
+    padding: 0 20px;
+}
+
+.parent p{
+    color: rgb(125, 123, 123);
+}
+.parent2{
+    width: 300px;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+    padding: 10px;
+    display: none;
+    background-color: rgba(26, 35, 59, 0.695);
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 10px;
+}
+.top p{
+    color: rgb(255, 136, 0);
+    background-color: rgba(156, 152, 152, 0.568);
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.rating{
+    margin-left: 30px;
+}
+body{
+background-color:rgb(234, 239, 232);
+}
